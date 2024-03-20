@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_aToz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="A->Z" />
+    <item
+        android:id="@+id/menu_zToa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Z->A" />
+    <item
+        android:id="@+id/menu_dateAscending"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Datum absteigend" />
+    <item
+        android:id="@+id/menu_dateDescending"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Datum absteigend" />
+</menu>
